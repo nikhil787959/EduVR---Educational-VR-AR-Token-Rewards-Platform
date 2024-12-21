@@ -1,3 +1,4 @@
+
 ## Project Title
 EduVR - Educational VR/AR Token Rewards Platform
 
@@ -12,6 +13,7 @@ The system is powered by Ethereum-based smart contracts, ensuring transparency, 
 
 ## Contract Address
 0x441Fb56d60a9712e9F78e44aeC52b6543b8834EE
+![image](https://github.com/user-attachments/assets/0c8e907a-eae1-46e6-b811-fb5694cc69de)
 
 ## Key Features
 
